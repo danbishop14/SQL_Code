@@ -1,3 +1,10 @@
+/*
+COVID-19 Exploratory Data Analysis
+
+Includes: Joins, Views, Aggregate Functions, Data Conversions
+
+*/
+
 Select *
 From PortfolioProject.dbo.CovidDeaths1
 ORDER BY 1,2
